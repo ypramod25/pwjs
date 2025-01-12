@@ -1,3 +1,3 @@
 console.log("Pramod");
 console.log("Hitesh");
-console.log("pw");
+console.log("pw skills");
